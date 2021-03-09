@@ -46,7 +46,7 @@ LEVEL 800 Commands
     /msg X servnotice <channel> <message>
     NEWPASS
     Allows a CService Administrator to change a username's password, other than their own.
-    /msg X@channels.sidenet.org NEWPASS username NewPassword
+    /msg X@channels.undernet.org NEWPASS username NewPassword
 
 
 LEVEL 750 Commands
